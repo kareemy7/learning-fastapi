@@ -66,5 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or feedback, feel free to reach out:
 - Email: karimelbassiouny@gmail.com
 - Twitter: [@Karreemy22]([https://twitter.com/yourhandle](https://x.com/Karreemy22))
-```
-
