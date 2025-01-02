@@ -8,42 +8,6 @@ Welcome to my FastAPI learning journey! This repository documents my progress as
 
 ---
 
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fastapi-learning-journey.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd fastapi-learning-journey
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-## 🛠️ Usage
-
-To run the FastAPI server:
-```bash
-uvicorn main:app --reload
-```
-Visit `http://127.0.0.1:8000` in your browser to see the API in action.
-
----
-
-## 📂 Projects
-
-Here are some of the projects I've worked on:
-- **Basic CRUD API**: A simple API to perform CRUD operations.
-- **Authentication System**: Implementing JWT-based authentication in FastAPI.
-- **File Upload API**: An API to handle file uploads and storage.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please:
